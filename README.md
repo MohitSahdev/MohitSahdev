@@ -7,4 +7,4 @@ Canterbury, Christchurch, focusing on **credit risk** for New Zealand banks.
 - **Recent work:** STAT462 poster "Nitrate Runs Downhill" won 1st prize (2026)
 - **Background:** 15+ years in operations and reporting, MBA in Finance
 - **Tools:** Python, SQL, pandas, Git
-- **Contact:** theprecisionanalytics@gmail.com · [LinkedIn]((https://www.linkedin.com/in/mohitsahdev/))
+- **Contact:** theprecisionanalytics@gmail.com · [LinkedIn](https://www.linkedin.com/in/mohitsahdev/)
